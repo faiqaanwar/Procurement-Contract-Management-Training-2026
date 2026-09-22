@@ -2,3 +2,4 @@
 Professional portfolio of training program planning, coordination, reporting, feedback analysis, and promotional materials.
 ![Overall Program Rating](./overall%20program%20rating.png)
 ![Facilitation and Delivery Rating](./FACILITATION%20%26%20DELIVERY%20%28Consolidated%29.png)
+* 📄 **[Download PPRA Training Report (PDF)](./PPRA%20Training%20Report%20.pdf)**
